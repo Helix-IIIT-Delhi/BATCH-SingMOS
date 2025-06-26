@@ -33,7 +33,7 @@ vidual PTMs and baseline fusion techniques as well as setting
 ---
 
 <div align="center">
-    <img src="./sing_fake_archi1.jpg" alt="Pipeline" style="width: 50%;"/>
+    <img src="./SingMOS-1.png" alt="Pipeline" style="width: 50%;"/>
 </div>
 
 ---
@@ -42,12 +42,12 @@ If you find this work useful, please consider citing us:
 
 ```bibtex
 
-@misc{phukan2025sourceattributionsingingvoice,
-    title={Towards Source Attribution of Singing Voice Deepfake with Multimodal Foundation Models}, 
-    author={Orchid Chetia Phukan and Girish and Mohd Mujtaba Akhtar and Swarup Ranjan Behera and Priyabrata Mallick and Pailla Balakrishna Reddy and Arun Balaji Buduru and Rajesh Sharma},
-    year={2025},
-    eprint={2506.03364},
-    archivePrefix={arXiv},
-    primaryClass={eess.AS},
-    url={https://arxiv.org/abs/2506.03364}, 
+@misc{phukan2025investigatingreasonableeffectivenessspeaker,
+      title={Investigating the Reasonable Effectiveness of Speaker Pre-Trained Models and their Synergistic Power for SingMOS Prediction}, 
+      author={Orchid Chetia Phukan and Girish and Mohd Mujtaba Akhtar and Swarup Ranjan Behera and Pailla Balakrishna Reddy and Arun Balaji Buduru and Rajesh Sharma},
+      year={2025},
+      eprint={2506.02232},
+      archivePrefix={arXiv},
+      primaryClass={eess.AS},
+      url={https://arxiv.org/abs/2506.02232}, 
 }
