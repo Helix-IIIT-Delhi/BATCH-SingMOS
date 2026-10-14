@@ -26,8 +26,6 @@ The key innovation is demonstrating that **speaker recognition pre-trained model
 
 **Conference**: Interspeech 2025, pp. 3090–3094
 
-**Paper Link**: [ISCA Archive](https://www.isca-archive.org/interspeech_2025/phukan25d_interspeech.html)
-
 ## Abstract
 
 In this study, we focus on Singing Voice Mean Opinion Score (SingMOS) prediction. Previous research has shown the performance benefit with the use of state-of-the-art (SOTA) pre-trained models (PTMs). However, they haven't explored speaker recognition speech PTMs (SPTMs) such as x-vector and ECAPA, and we hypothesize that they will be the most effective for SingMOS prediction. We believe that due to their speaker recognition pre-training, they equip them to capture fine-grained vocal features (e.g., pitch, tone, intensity) from synthesized singing voices in a much better way than other PTMs.
