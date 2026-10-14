@@ -2,8 +2,6 @@
 
 # BATCH-SingMOS: Singing Voice Quality Assessment via Bhattacharyya Fusion
 
-## Investigating the Reasonable Effectiveness of Speaker Pre-Trained Models and their Synergistic Power for SingMOS Prediction
-
 [![Paper](https://img.shields.io/badge/Paper-Interspeech%202025-blue)](https://www.isca-archive.org/interspeech_2025/phukan25d_interspeech.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.02232-b31b1b.svg)](https://arxiv.org/pdf/2506.02232)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -230,16 +228,6 @@ If you find this work useful, please consider citing us:
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
-## Authors
-
-- **Orchid Chetia Phukan**
-- **Girish**
-- **Mohd Mujtaba Akhtar**
-- **Swarup Ranjan Behera**
-- **Pailla Balakrishna Reddy**
-- **Arun Balaji Buduru**
-- **Rajesh Sharma**
 
 ---
 
